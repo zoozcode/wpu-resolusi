@@ -3,9 +3,11 @@ RENCANA KONTEN WPU
 java script
   1.es6
   2.framework javascript
-    >angular
+    >vue
     >react
+struktur data dasar
 php
-  >ci
+  >laravel
 python
 kotlin
+c++
