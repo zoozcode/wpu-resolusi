@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 java script
   1.es6
   2.framework javascript
+struktur data dasar
 php
 python
 kotlin
